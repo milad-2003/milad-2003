@@ -55,6 +55,7 @@
 <!--<img align="left" alt="django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />-->
 <!--<img align="left" alt="flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />-->
 <!--<img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />-->
+<img align="left" alt="Anaconda" title="Anaconda" width="35px" src="https://www.vhv.rs/dpng/d/208-2081207_anaconda-python-icon-png-download-anaconda-python-icon.png" />
 <img align="left" alt="Jupyter-notebook" title="Jupyter Notebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Numpy" title="NumPy" width="35px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
 <img align="left" alt="Pandas" title="Pandas" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
