@@ -43,15 +43,15 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
-<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" />
 <!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" title="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
-<img align="left" alt="C++" title="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" />
-<!--<img align="left" alt="django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />-->
+<!-- <img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="left" alt="C++" title="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" /> -->
+<img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <!--<img align="left" alt="flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />-->
 <!--<img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />-->
 <img align="left" alt="Anaconda" title="Anaconda" width="30px" src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" />
