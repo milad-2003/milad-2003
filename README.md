@@ -71,7 +71,7 @@
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=milad-2003&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Milad's Top Languages">
 
-[![](https://visitcount.itsvg.in/api?id=maryamdnn&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=milad-2003&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <br>
 
