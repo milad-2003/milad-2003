@@ -19,11 +19,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Junior python developer
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Make a better version of myself
-- 💬 Ask me about anything, I am happy to help :smile:
+### I'm a Junior python developer
+- 🌱 Currently learning Django.
+- 👯 Looking to collaborate with other Developers :wink:
+- 💬 Ask me about anything, I'm happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - ⚡ I love connecting with different people :raised_hands:
 
