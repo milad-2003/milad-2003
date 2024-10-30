@@ -71,8 +71,7 @@
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=milad-2003&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Milad's Top Languages">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=green&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=milad-2003&limit=5&theme=bear&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=bear&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=milad-2003&icon=5&color=6)](https://visitcount.itsvg.in)
 
