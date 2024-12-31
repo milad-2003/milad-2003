@@ -74,6 +74,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=bear&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=milad-2003&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://hits.sh/github.com/{milad-2003}.svg)
+
+
 
 <br>
 
