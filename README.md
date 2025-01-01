@@ -67,31 +67,17 @@
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=milad-2003&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Milad's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=milad-2003&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Milad's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="55%" alt="GitHub Stats"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=bear&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" alt="Top Languages"/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=algolia&hide_border=false" width="60%"/>
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=milad-2003&icon=5&color=6)](https://visitcount.itsvg.in)
 <!-- ![](https://hits.sh/github.com/{milad-2003}.svg) -->
 
-
-
-<br>
-
-<br>
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="/wave.svg" />
-
-<!--[website]: -->
-[twitter]: https://twitter.com/Milad_V2003/
-[instagram]: https://instagram.com/milad.v2003/
-[linkedin]: https://www.linkedin.com/in/milad-valizadeh/
-
-
-#### Thank You-🙏🏼
-
-⭐️ From [Milad-Valizadeh](https://github.com/milad-2003)
