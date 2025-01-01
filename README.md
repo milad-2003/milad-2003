@@ -67,9 +67,9 @@
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="55%" alt="GitHub Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="54%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="42.5%" alt="Top Languages"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=algolia&hide_border=false" width="60%"/>
