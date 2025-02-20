@@ -23,7 +23,7 @@
 - 🌱 Currently learning Django
 - 👯 Looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I'm happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/milad-valizadeh" target="_blank">Let's get in touch!</a>
 - ⚡ I love connecting with different people :raised_hands:
 
 <br>
