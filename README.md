@@ -71,9 +71,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-2003&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="42.5%" alt="Top Languages"/>
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-2003&theme=algolia&hide_border=false" width="60%"/>
 </div>
+-->
 
 [![](https://visitcount.itsvg.in/api?id=milad-2003&icon=5&color=6)](https://visitcount.itsvg.in)
 <!-- ![](https://hits.sh/github.com/{milad-2003}.svg) -->
