@@ -41,7 +41,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" />
 <!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
@@ -49,12 +49,12 @@
 <img align="left" alt="Python" title="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <!-- <img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" alt="C++" title="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" /> -->
-<img align="left" alt="django" title="Django" width="30px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
+<img align="left" alt="django" title="Django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
 <!--<img align="left" alt="flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />-->
 <!--<img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />-->
 <img align="left" alt="Anaconda" title="Anaconda" width="30px" src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" />
 <img align="left" alt="Jupyter-notebook" title="Jupyter Notebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Numpy" title="NumPy" width="30px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+<img align="left" alt="Numpy" title="NumPy" width="30px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
 <!--<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />-->
 <!--<img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />-->
