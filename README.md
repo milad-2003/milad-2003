@@ -21,10 +21,9 @@
 
 ### I'm a Junior python developer
 - 🌱 Currently learning Django
-- 👯 Looking to collaborate with other Developers :wink:
-- 💬 Ask me about anything, I'm happy to help :smile:
+- 👯 Looking to collaborate with other Developers
+- 💬 Ask me about anything, I'm happy to help
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/milad-valizadeh" target="_blank">Let's get in touch!</a>
-- ⚡ I love connecting with different people :raised_hands:
 
 <br>
 
